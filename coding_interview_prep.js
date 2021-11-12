@@ -120,6 +120,31 @@ function checkSet() {
 
 checkSet();
 
+// Remove items from a set in ES6
+function checkSet(){
+  // Only change code below this line
+  var set = null;
+
+  // Only change code above this line
+  return set;   
+}
+
+// Use .has and .size on an ES6 Set
+function checkSet(arrToBeSet, checkValue){
+
+  // Only change code below this line
+
+  // Only change code above this line
+
+}
+
+// Use Spread and Notes for ES5 Set() Integration
+function checkSet(set){
+  // Only change code below this line
+
+  // Only change code above this line
+}
+
 // Create a Map Data Structure
 var Map = function() {
   this.collection = {};
