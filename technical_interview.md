@@ -167,3 +167,26 @@ Final question in our data analyst interview questions and answers guide. A Data
 - COUNTA function counts the non-blank cells in a range
 - COUNTBLANK function gives the count of blank cells in a range
 - COUNTIF function returns the count of values by checking a given condition
+
+30. What is the significance of Exploratory Data Analysis (EDA)?
+- Exploratory data analysis (EDA) helps to understand the data better.
+- It helps you obtain confidence in your data to a point where you’re ready to engage a machine learning algorithm.
+- It allows you to refine your selection of feature variables that will be used later for model building.
+- You can discover hidden trends and insights from the data.
+
+31. How do you treat outliers in a dataset? 
+- An outlier is a data point that is distant from other similar points. They may be due to variability in the measurement or may indicate experimental errors.
+- To deal with outliers, you can use the following four methods:
+  - Drop the outlier records
+  - Cap your outliers data
+  - Assign a new value
+  - Try a new transformation
+
+32. What are the different types of Hypothesis testing?
+Hypothesis testing is the procedure used by statisticians and scientists to accept or reject statistical hypotheses. There are mainly two types of hypothesis testing:
+- Null Hypothesis:
+  - It states that there is no relation between the predictor and outcome variables in the population. H0 denoted it.
+  - Example: There is no association between a patient’s BMI and diabetes.
+- Alternative Hypothesis
+  - It states that there is some relation between the predictor and outcome variables in the population. It is denoted by H1.
+  - Example: There could be an association between a patient’s BMI and diabetes.
