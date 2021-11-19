@@ -148,3 +148,22 @@ Final question in our data analyst interview questions and answers guide. A Data
 - Now, go to the Home tab and choose the Conditional Formatting option.
 - Then, go to the Highlight Cell Rules and select the Less Than option.
 - In the final step, you must go to the dialog box of the Less Than option and enter “0” as the value.
+
+27. What is Time Series analysis?
+- Time Series analysis is a statistical procedure that deals with the ordered sequence of values of a variable at equally spaced time intervals. Time series data are collected at adjacent periods. So, there is a correlation between the observations. This feature distinguishes time-series data from cross-sectional data.
+
+28. How is joining different from blending in Tableau?
+- Data Joining: 
+  - Data joining can only be carried out when the data comes from the same source.
+  - E.g: Combining two or more worksheets from the same Excel file or two tables from the same databases.
+  - All the combined sheets or tables contain a common set of dimensions and measures.
+- Data Blending:
+  - Data blending is used when the data is from two or more different sources.
+  - E.g: Combining the Oracle table with SQL Server,  or combining Excel sheet and Oracle table or two sheets from Excel.
+  - Meanwhile, in data blending, each data source contains its own set of dimensions and measures.
+
+29. What is the difference between COUNT, COUNTA, COUNTBLANK, and COUNTIF in Excel?
+- COUNT function returns the count of numeric cells in a range
+- COUNTA function counts the non-blank cells in a range
+- COUNTBLANK function gives the count of blank cells in a range
+- COUNTIF function returns the count of values by checking a given condition
