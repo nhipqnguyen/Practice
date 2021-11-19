@@ -190,3 +190,17 @@ Hypothesis testing is the procedure used by statisticians and scientists to acce
 - Alternative Hypothesis
   - It states that there is some relation between the predictor and outcome variables in the population. It is denoted by H1.
   - Example: There could be an association between a patient’s BMI and diabetes.
+
+33. What do you mean by data visualization?
+- The term data visualization refers to a graphical representation of information and data. Data visualization tools enable users to easily see and understand trends, outliers, and patterns in data through the use of visual elements like charts, graphs, and maps. Data can be viewed and analyzed in a smarter way, and it can be converted into diagrams and charts with the use of this technology.
+
+34. How does data visualization help you?
+- Data visualization has grown rapidly in popularity due to its ease of viewing and understanding complex data in the form of charts and graphs. In addition to providing data in a format that is easier to understand, it highlights trends and outliers. The best visualizations illuminate meaningful information while removing noise from data.
+
+35. Explain a hash table.
+- Hash tables are usually defined as data structures that store data in an associative manner. In this, data is generally stored in array format, which allows each data value to have a unique index value. Using the hash technique, a hash table generates an index into an array of slots from which we can retrieve the desired value.
+
+36. What do you mean by collisions in a hash table? Explain the ways to avoid it.
+- Hash table collisions are typically caused when two keys have the same index. Collisions, thus, result in a problem because two elements cannot share the same slot in an array. The following methods can be used to avoid such hash collisions:  
+- Separate chaining technique: This method involves storing numerous items hashing to a common slot using the data structure.  
+Open addressing technique: This technique locates unfilled slots and stores the item in the first unfilled slot it finds.
