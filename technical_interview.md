@@ -204,3 +204,12 @@ Hypothesis testing is the procedure used by statisticians and scientists to acce
 - Hash table collisions are typically caused when two keys have the same index. Collisions, thus, result in a problem because two elements cannot share the same slot in an array. The following methods can be used to avoid such hash collisions:  
 - Separate chaining technique: This method involves storing numerous items hashing to a common slot using the data structure.  
 Open addressing technique: This technique locates unfilled slots and stores the item in the first unfilled slot it finds.
+
+37. Google Data Analyst Interview Questions
+- How would you compare the performance of two search engines?
+- What is your favorite Google product?
+- What was your work like in your former organization?
+- Tell me about yourself.
+- How do you design an online social network platform that follows all community guidelines?
+- Describe a really difficult project and tell me how you solved it.
+- Describe any data cleansing techniques you have used.
