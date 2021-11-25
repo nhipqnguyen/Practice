@@ -1,2 +1,1 @@
-if 5 > 2:
-    print("Five is greater than two!")
+# 1-1. A psychologist wants to estimate the average dollar amount that a Visalia,
