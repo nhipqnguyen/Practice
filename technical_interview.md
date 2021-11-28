@@ -248,3 +248,5 @@ Open addressing technique: This technique locates unfilled slots and stores the 
 - Since working remotely is going to be the norm for some time (if not forever), hiring managers want to make sure candidates can excel without direct in-person oversight.
 - EXAMPLE ANSWER: “Yes, I feel that I am capable of not just remaining productive but exceeding expectations while working remotely. I set myself up for success by making the most of a range of tools. For example, to support organization and time management, I use a calendaring app to structure my workday. Additionally, I have a quiet space from which to work, ensuring I can focus, and take active steps to limit distractions, such as turning off unnecessary notifications.
 I’m also highly tech-savvy and adapt quickly to remote work solutions like collaboration software and VPN connection services. I believe that, together, that ensures I can remain productive.”
+
+41. Design a data structure that stores a mapping of a key to a given value and supports the following operations in constant time.
