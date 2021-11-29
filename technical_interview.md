@@ -250,3 +250,7 @@ Open addressing technique: This technique locates unfilled slots and stores the 
 I’m also highly tech-savvy and adapt quickly to remote work solutions like collaboration software and VPN connection services. I believe that, together, that ensures I can remain productive.”
 
 41. Design a data structure that stores a mapping of a key to a given value and supports the following operations in constant time.
+
+42.
+
+43.
