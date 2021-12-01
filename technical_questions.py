@@ -40,3 +40,24 @@ def count_the_vowels(str):
 
     # return  the  counter
     return num_vowels
+
+# pandas
+## 1. What is Python Pandas?
+### Pandas is an open-source library providing easy-to-use data analysis tools for Python.
+
+## 2. What are two different types of data structures in Pandas?
+### Series
+### Data frame
+
+## 3. What is a data series?
+### A Series is a one-dimensional labeled array which holds data of any type (integer, string, objects etc.).
+
+## 4. Define DataFrame in Pandas.
+### A DataFrame is a type of data structure in Pandas that works with a two-dimensional array with labeled axes (rows and columns).
+
+## 5. What is re-indexing in Pandas?
+### Re-indexing means to conform the DataFrame to a new index. 
+### It changes the row labels and column labels.
+
+## 6 . How can we create a copy of a series in Pandas?
+### pandas.Series.copy Series.copy(deep=True)
