@@ -61,3 +61,14 @@ def count_the_vowels(str):
 
 ## 6 . How can we create a copy of a series in Pandas?
 ### pandas.Series.copy Series.copy(deep=True)
+
+# APIs
+## 1. Explain what REST is?
+### REST stands for Representational State Transfer.
+
+## 2. What are some common HTTP methods supported by REST and when do you use them?
+### GET—requesting a resource. POST—submitting new information. PUT—updates an entire resource. 
+### PATCH—updates a partial resource. DELETE—removes a resource.
+
+## 3 . What is the most popular to represent data transfer in a restful API?
+### JSON and XML
