@@ -72,3 +72,9 @@ def count_the_vowels(str):
 
 ## 3 . What is the most popular to represent data transfer in a restful API?
 ### JSON and XML
+
+## 4. 
+
+# 5. 
+
+## 6. 
