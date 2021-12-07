@@ -73,8 +73,17 @@ def count_the_vowels(str):
 ## 3 . What is the most popular to represent data transfer in a restful API?
 ### JSON and XML
 
-## 4. 
+# SQL
+## 1. What is SQL and how is it different from NoSQL?
+### SQL databases are held in tables, and are relational; 
+### i.e. tables can be related to other tables in the database. 
+### NoSQL databases are usually document based, where key-value pairs are used to store data.
 
-# 5. 
+## 2. What is a primary key?
+### A primary key is either a single or combination of fields 
+### which uniquely identify a row in the table.
 
-## 6. 
+## 3. What is a foreign key?
+### A foreign key in one table represents the primary key of another table. 
+### The relationship between the two is created by referencing each key.
+
