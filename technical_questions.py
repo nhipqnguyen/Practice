@@ -121,3 +121,20 @@ def count_the_vowels(str):
             # and table B is a list of books, 
             # Table C would combine IDs from both tables to indicate 
             # who owns which books in their personal library.
+
+# ETL
+    # 1. What is ETL?
+        # ETL stands for Extract, Transform, Load; it is a process for collecting, cleaning, and saving data.
+        # The Extract step reads data from disparate data sources, 
+        # while the Transform step converts the data into a useful format, 
+        # and the Load step writes that data into the target database or data warehouse.
+    
+    # 2. What are regular expressions and why would you want to use them?
+        # Regular expressions are a sequence of specific characters that help match or find other strings, 
+        # or sets of strings, using specialized syntax. 
+        # Often shortened to "RegEx," they can be used with the Python package "re."
+
+    # 3. Define a lambda function and give an example.
+        # A lambda function is a short, anonymous function; 
+        # it can take any number of arguments but only has one expression.
+        # Compare your example with something offered earlier in this week's material.
