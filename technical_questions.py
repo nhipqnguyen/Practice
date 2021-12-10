@@ -138,3 +138,44 @@ def count_the_vowels(str):
         # A lambda function is a short, anonymous function; 
         # it can take any number of arguments but only has one expression.
         # Compare your example with something offered earlier in this week's material.
+
+# SQLAlchemy
+    # Look at the following code snippets, and try to answer the questions accompanying them.
+
+    # Snippet #1
+
+from sqlalchemy.engine.url import URL
+postgres_db = {'drivername': 'postgres',
+               'username': 'postgres',
+               'host': '192.168.99.100',
+               'port': 5432}
+print(URL(**postgres_db))
+
+        # Question: What line of code is missing from setting up postgres_db with SQLAlchemy?
+        # Answer: 'password': '<password>', needs to be included in the setup object.
+
+    # Snippet #2
+# Declare a table
+table = Table('Example',metadata,
+              Column('id',Integer),
+              Column('name',String))
+        # Question: What line of code would you apply primary_key=True to?
+        # Answer: The primary key could technically be either column, 
+        # but common practice is to apply it to the id, 
+        # so we'd get: Column('id',Integer, primary_key=True)
+
+    # Snippet #3
+
+from sqlalchemy import create_engine
+from sqlalchemy import inspect
+db_uri = 'sqlite:///db.sqlite'
+engine = create_engine(db_uri)
+
+inspector = inspect(engine)
+# Get table information
+print(inspector.get_table_names())
+# Get column information
+print(inspector.get_columns('EX1'))
+        
+        # Question: What does the above code do?
+        # Answer: This code imports "inspect" from SQLAlchemy and uses the inspector to get the names of all tables and to get all columns from those tables in our database.
