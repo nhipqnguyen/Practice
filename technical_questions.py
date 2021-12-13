@@ -178,4 +178,10 @@ print(inspector.get_table_names())
 print(inspector.get_columns('EX1'))
         
         # Question: What does the above code do?
-        # Answer: This code imports "inspect" from SQLAlchemy and uses the inspector to get the names of all tables and to get all columns from those tables in our database.
+        # Answer: This code imports "inspect" from SQLAlchemy and uses the inspector 
+        # to get the names of all tables and to get all columns from those tables in our database.
+
+# Web scraping
+    # Case Studies
+
+# Javascript
