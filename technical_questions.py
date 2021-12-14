@@ -185,3 +185,27 @@ print(inspector.get_columns('EX1'))
     # Case Studies
 
 # Javascript
+
+# Plotly
+    # Case Studies
+
+# JavaScript API
+    # 1. What is Leaflet?
+        # Leaflet is an extremely popular, open-source JavaScript library for 
+        # mobile-friendly interactive maps. It helps us display and visualize data 
+        # in ways that are user-friendly and meaningful for data analysts and nonexperts alike.
+
+    # 2. Tell me about your experience using Leaflet?
+        # There is no concrete answer here, but the "tell me about" format 
+        # is extremely popular in interviews. It is an open-ended question that invites 
+        # you to sell your skills! Write down your experiences using Leaflet this week. 
+        # What were the challenges? How did you overcome them? 
+        # What did you learn that is applicable to the job you're applying for?
+
+    # 3. What is the GeoJSON data format?
+        # GeoJSON is an open standard format, which is essentially a type of 
+        # JSON (JavaScript Object Notation) for representing geographical features 
+        # along with their nonspatial attributes. 
+        # It is commonly used with libraries like Leaflet.js.
+
+
