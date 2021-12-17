@@ -45,3 +45,7 @@ function testStrict(val) {
   }
   
   testStrict(10);
+
+// Question 10
+
+// Question 11
