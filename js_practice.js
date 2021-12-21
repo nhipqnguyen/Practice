@@ -49,3 +49,7 @@ function testStrict(val) {
 // Question 10
 
 // Question 11
+
+// Question 12
+
+// Question 13
